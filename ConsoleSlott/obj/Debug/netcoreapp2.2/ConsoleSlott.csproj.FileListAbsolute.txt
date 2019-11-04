@@ -1,0 +1,10 @@
+C:\Users\dyrsh\source\repos\ConsoleSlott\ConsoleSlott\bin\Debug\netcoreapp2.2\ConsoleSlott.deps.json
+C:\Users\dyrsh\source\repos\ConsoleSlott\ConsoleSlott\bin\Debug\netcoreapp2.2\ConsoleSlott.runtimeconfig.json
+C:\Users\dyrsh\source\repos\ConsoleSlott\ConsoleSlott\bin\Debug\netcoreapp2.2\ConsoleSlott.runtimeconfig.dev.json
+C:\Users\dyrsh\source\repos\ConsoleSlott\ConsoleSlott\bin\Debug\netcoreapp2.2\ConsoleSlott.dll
+C:\Users\dyrsh\source\repos\ConsoleSlott\ConsoleSlott\bin\Debug\netcoreapp2.2\ConsoleSlott.pdb
+C:\Users\dyrsh\source\repos\ConsoleSlott\ConsoleSlott\obj\Debug\netcoreapp2.2\ConsoleSlott.csprojAssemblyReference.cache
+C:\Users\dyrsh\source\repos\ConsoleSlott\ConsoleSlott\obj\Debug\netcoreapp2.2\ConsoleSlott.AssemblyInfoInputs.cache
+C:\Users\dyrsh\source\repos\ConsoleSlott\ConsoleSlott\obj\Debug\netcoreapp2.2\ConsoleSlott.AssemblyInfo.cs
+C:\Users\dyrsh\source\repos\ConsoleSlott\ConsoleSlott\obj\Debug\netcoreapp2.2\ConsoleSlott.dll
+C:\Users\dyrsh\source\repos\ConsoleSlott\ConsoleSlott\obj\Debug\netcoreapp2.2\ConsoleSlott.pdb
